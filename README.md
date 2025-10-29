@@ -114,7 +114,7 @@ ORDER BY total_transactions DESC;
 -  Year-Month Slicers – Filter by year (2024–2025) and month
 
 **Screenshot:**  
-![Sales Dashboard](https://github.com/kailaskakde/Retail-sales---inventory-analysis-using-pyhton-sql-powerBI/blob/main/dashbord%20image/sales%20page.png)
+![Sales Dashboard](https://github.com/kailaskakde/zudio-sales-analysis-using-powerbi-and-sql/blob/main/image/Screenshot%202025-10-29%20140019.png)
 
 
 
@@ -146,4 +146,5 @@ ORDER BY total_transactions DESC;
 - 📊 Data Analyst | Power BI | SQL | Python | Excel
 - 📧 Email: kakdekailas0@gmail.com
 - 🌐 LinkedIn: linkedin.com/in/kailas-kakde-b62ab2289
+
 
