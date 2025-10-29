@@ -113,7 +113,9 @@ ORDER BY total_transactions DESC;
 -  Dual Line Chart – Max/Min Sales by Category
 -  Year-Month Slicers – Filter by year (2024–2025) and month
 
-Screenshot:
+**Screenshot:**  
+![Sales Dashboard](https://github.com/kailaskakde/Retail-sales---inventory-analysis-using-pyhton-sql-powerBI/blob/main/dashbord%20image/sales%20page.png)
+
 
 
 ## 🧾 Key Insights
@@ -144,3 +146,4 @@ Screenshot:
 - 📊 Data Analyst | Power BI | SQL | Python | Excel
 - 📧 Email: kakdekailas0@gmail.com
 - 🌐 LinkedIn: linkedin.com/in/kailas-kakde-b62ab2289
+
